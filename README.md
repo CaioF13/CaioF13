@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaioF13
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Data Science/SQL/Python/Big Data
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
